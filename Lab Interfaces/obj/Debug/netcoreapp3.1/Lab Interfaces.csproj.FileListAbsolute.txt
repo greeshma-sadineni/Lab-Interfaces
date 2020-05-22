@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\bin\Debug\netcoreapp3.1\Lab Interfaces.exe
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\bin\Debug\netcoreapp3.1\Lab Interfaces.deps.json
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\bin\Debug\netcoreapp3.1\Lab Interfaces.runtimeconfig.json
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\bin\Debug\netcoreapp3.1\Lab Interfaces.runtimeconfig.dev.json
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\bin\Debug\netcoreapp3.1\Lab Interfaces.dll
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\bin\Debug\netcoreapp3.1\Lab Interfaces.pdb
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\obj\Debug\netcoreapp3.1\Lab Interfaces.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\obj\Debug\netcoreapp3.1\Lab Interfaces.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\obj\Debug\netcoreapp3.1\Lab Interfaces.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\obj\Debug\netcoreapp3.1\Lab Interfaces.AssemblyInfo.cs
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\obj\Debug\netcoreapp3.1\Lab Interfaces.dll
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\obj\Debug\netcoreapp3.1\Lab Interfaces.pdb
+F:\.Net Programs\Lab Interfaces\Lab Interfaces\obj\Debug\netcoreapp3.1\Lab Interfaces.genruntimeconfig.cache
